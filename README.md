@@ -5,7 +5,7 @@ II. [Rank Based Recommendations](#Rank)<br>
 III. [User-User Based Collaborative Filtering](#User-User)<br>
 IV. [Content Based Recommendations (EXTRA - NOT REQUIRED)](#Content-Recs)<br>
 V. [Matrix Factorization](#Matrix-Fact)<br>
-VI. [Extras & Concluding](#conclusions)
+VI. [Licensing and Acknowledgements](#Licensing)
 ## Introduction
 For this project you I analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles I think they will like. Below you can see an example of what the dashboard could look like displaying articles on the IBM Watson Platform.
 
@@ -32,3 +32,13 @@ Given the amount of content available for each article, there are a number of di
 V. <a name="Matrix-Fact">Matrix Factorization</a>
 
 Finally, you will complete a machine learning approach to building recommendations. Using the user-item interactions, you will build out a matrix decomposition. Using your decomposition, you will get an idea of how well you can predict new articles an individual might interact with (spoiler alert - it isn't great). You will finally discuss which methods you might use moving forward, and how you might test how well your recommendations are working for engaging users.
+
+VI. <a name="Licensing">Licensing and Acknowledgements</a>
+
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
+This project is part of [Udacity](https://www.udacity.com/) Data Scientist Nanodegree. 
+
+
+
+**Copyright (c) 2021 Juma Hamdan**
